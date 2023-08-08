@@ -14,9 +14,9 @@ For this prediction test, a good answer rate is obtained and is never so good (b
 ## application.py:
 The application.py file' s aim is to build the black board that allows the user to draw digits that will be recognised by the computer. Here we can see all the digits drawn on the black board and guess correctly: 
 
-![Screenshot](screenshot/all_digits.png)
+![Screenshot](screenshots/all_digits.png)
 
-For more pictures please go to the following path: [relative path folder link](screenshot)
+For more pictures please go to the following path: [relative path folder link](screenshots)
 
 
 ## Use:
