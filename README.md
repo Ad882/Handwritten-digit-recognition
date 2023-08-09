@@ -21,3 +21,26 @@ For more pictures please go to the following path: [path to screenshots](screens
 
 ## Use:
 If you want to use the files, please run the model.py first so that a bestmodel.h5 file will be created and used later by the application.py file. Then run the application.py file.
+
+
+⚠️ **Warning**: Before running the files, make sure *numpy*, *opencv-python*, *matplotlib* and *tensorflow* are installed on your computer. ⚠️
+
+To install numpy:
+```  
+pip install numpy
+```
+
+To install opencv-python:
+```  
+pip install opencv-python
+```
+
+To install matplotlib:
+```  
+pip install matplotlib
+```
+
+To install tensorflow:
+```  
+pip install tensorflow
+```
